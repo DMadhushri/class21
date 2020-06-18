@@ -1,2 +1,2 @@
-# class21
-created library and passed values into functions
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
